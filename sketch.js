@@ -1,11 +1,11 @@
 function setup() {
     createCanvas(900, 900);
-    background("white");
+    background("black");
   }
   
   function draw() {
   
-    stroke("black");
+    stroke("blue");
     fill("purple");
   
     //console.log(mouseIsPressed);
